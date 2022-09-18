@@ -1,0 +1,2 @@
+C:\ProgramData\robocorp\ht\adb379d_b1f3c24_1c0bc041\lib\site-packages\selenium\webdriver\firefox\firefox_profile.py:208: SyntaxWarning: "is" with a literal. Did you mean "=="?
+  if setting is None or setting is '':
